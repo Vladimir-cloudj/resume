@@ -1,0 +1,77 @@
+.contacts {
+    background-color: var(--color-black);
+    padding: 0;
+    padding-bottom: 150px;
+}
+.container {
+}
+.contacts .contacts__container {
+    max-width: inherit;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    /* gap: 126px; */
+    border-radius: 30px;
+    background-color: rgba(25, 28, 25, 1);
+    /* background-image: url(../resources/img/contacts/programmer_cuate.png); */
+    /* background-repeat: no-repeat; */
+    /* background-size: contain; */
+    /* background-position: top right; */
+    /* position: relative; */
+    /* right: -20px; */
+}
+.left__block {
+    padding-top: 320px;
+    padding-left: 125px;
+    width: 816px;
+}
+.contacts__title {
+    margin-bottom: 28px;
+    color: rgba(255, 255, 255, 1);
+    font-family: 'IBM Plex Mono', sans-serif;
+    font-size: 35px;
+    font-weight: 400;
+    line-height: 60px;
+    /* letter-spacing: -3%; */
+    text-align: left;
+}
+.contacts__info {
+    display: flex;
+    flex-direction: column;
+}
+.contacts__info-title {
+}
+.contacts-list {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.contacts-link {
+    color: var(--color-white);
+    font-family: 'IBM Plex Mono', sans-serif;
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 60px;
+    text-align: left;
+}
+.contacts-link:hover {
+    color: var(--color-green);
+  }
+.right__block {
+    width: 852px;
+    height: 715px;
+    overflow: hidden;
+    border-radius: 30px;
+    /* position: relative; */
+    z-index: 0;
+}
+.right__block img {
+    /* position: relative;
+    left: 205px;
+    top: 20px; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left top;
+    /* background-position: center top 20px; */
+    /* z-index: 0; */
+}
