@@ -2,6 +2,7 @@
     background-color: var(--color-black);
     padding: 0;
     padding-bottom: 150px;
+
 }
 .container {
 }
@@ -22,7 +23,7 @@
 }
 .left__block {
     padding-top: 320px;
-    padding-left: 125px;
+    padding-left: 130px;
     width: 816px;
 }
 .contacts__title {
@@ -58,7 +59,7 @@
     color: var(--color-green);
   }
 .right__block {
-    width: 852px;
+    width: 913px;
     height: 715px;
     overflow: hidden;
     border-radius: 30px;

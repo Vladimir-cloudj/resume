@@ -29,7 +29,7 @@
     /* font-style: Regular; */
     font-size: 80px;
     line-height: 70px;
-    /* letter-spacing: -3%; */
+    letter-spacing: -0.035em;
     color: var(--color-green);
     width: 919px;
 }
