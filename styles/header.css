@@ -1,7 +1,7 @@
 .header {
   position: fixed;
   top: 33px;
-  left: 9%;
+  left: 8.8%;
   z-index: 100;
   display: flex;
   justify-content: center;
@@ -15,6 +15,7 @@
 
 .container.header-container {
   padding: 0;
+  /* width: 1250px; */
 }
 
 .logo-background {
@@ -45,7 +46,7 @@
 
 .nav-list {
   display: flex;
-  gap: 50px;
+  gap: 52px;
 }
 
 .nav-list__item {

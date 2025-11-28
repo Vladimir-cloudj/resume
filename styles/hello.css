@@ -20,6 +20,7 @@
     /* font-style: Regular; */
     font-size: 20px;
     line-height: 130%;
+    padding-left: 5px;
     margin-bottom: 29px;
 }
 
@@ -32,5 +33,6 @@
     letter-spacing: -0.035em;
     color: var(--color-green);
     width: 919px;
+    padding-left: 2px;
 }
 

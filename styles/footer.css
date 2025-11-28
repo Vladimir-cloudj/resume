@@ -21,8 +21,9 @@
     width: 100%;
 }
 .footer__left {
-    padding-top: 83px;
+    padding-top: 80px;
     padding-bottom: 30px;
+    padding-left: 5px;
     display: flex;
     flex-direction: column;
     gap: 74px;
