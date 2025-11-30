@@ -1,6 +1,6 @@
 .header {
   position: fixed;
-  top: 33px;
+  top: 32px;
   left: 8.8%;
   z-index: 100;
   display: flex;
@@ -41,12 +41,12 @@
 }
 
 .nav {
-  padding-right: 27px;
+  padding-right: 30px;
 }
 
 .nav-list {
   display: flex;
-  gap: 52px;
+  gap: 51px;
 }
 
 .nav-list__item {

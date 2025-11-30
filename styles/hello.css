@@ -4,6 +4,8 @@
     background-image: url(../resources/img/hello/background1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
+    background-position-x: -5px;
 }
 
 .hello__container {
@@ -30,7 +32,7 @@
     /* font-style: Regular; */
     font-size: 80px;
     line-height: 70px;
-    letter-spacing: -0.035em;
+    letter-spacing: 0.02em;
     color: var(--color-green);
     width: 919px;
     padding-left: 2px;
