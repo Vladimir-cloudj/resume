@@ -1,7 +1,7 @@
 .tasks {
     background-color: var(--color-black);
     padding-top: 150px;
-    padding-bottom: 150px;
+    padding-bottom: 147px;
 }
 .container {
 }
@@ -25,7 +25,7 @@
     flex-direction: column;
     gap: 76px;
     padding-right: 14px;
-    padding-left: 6px;
+    padding-left: 3px;
 }
 
 .tasks__list .task:nth-child(3){
@@ -52,7 +52,7 @@
 }
 .task__text {
     height: 283px;
-    padding-top: 40px;
+    padding-top: 38px;
     /* padding-bottom: 40px; */
     /* display: grid; */
     /* grid-template-columns: repeat(1, 1fr); */

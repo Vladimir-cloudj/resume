@@ -1,6 +1,6 @@
 .header {
   position: fixed;
-  top: 37px;
+  top: 35px;
   left: 8.8%;
   z-index: 100;
   display: flex;
@@ -36,7 +36,7 @@
   font-style: Bold;
   font-size: 42.41px;
   line-height: 43px;
-  letter-spacing: -0.04em;
+  letter-spacing: -0.11em;
   text-transform: uppercase;
 }
 
@@ -55,9 +55,9 @@
 }
 
 .nav-list__link {
-  font-size: 19px;
+  font-size: 17px;
   line-height: 21px;
-  letter-spacing: -0.01em;
+  letter-spacing: -0.0em;
   position: relative;
   display: inline-block;
   padding-bottom: 4px;
